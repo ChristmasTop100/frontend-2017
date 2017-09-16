@@ -1,0 +1,27 @@
+{
+  "name": "xmas-front",
+  "version": "1.0.0",
+  "description": "The front-end of the christmastop100.nl site",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristmasTop100/frontend-2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristmasTop100/frontend-2017/issues"
+  },
+  "homepage": "https://github.com/ChristmasTop100/frontend-2017#readme"
+}

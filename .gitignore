@@ -1,0 +1,33 @@
+*.csv
+*.dat
+*.iml
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.idea
+.project
+.strong-pm
+
+# build output
+dist
+.next
+
+# dependencies
+node_modules
+package-lock.json
+
+# logs
+*.log
+
+# coverage
+.nyc_output
+coverage
+
+# test output
+test/**/out
+.DS_Store
