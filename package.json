@@ -4,6 +4,7 @@
   "description": "The front-end of the christmastop100.nl site",
   "main": "index.js",
   "dependencies": {
+    "isomorphic-unfetch": "^2.0.0",
     "next": "^3.2.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
